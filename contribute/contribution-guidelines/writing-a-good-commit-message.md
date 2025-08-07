@@ -1,5 +1,5 @@
 ---
-title: Writing a good commit message
+title: Writdvvd
 weight: 10
 ---
 
